@@ -1,0 +1,13 @@
+/* Gallery.css */
+
+.gallery-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.gallery-image {
+  margin: 5px;
+  width: 200px;
+  height: 200px;
+}
